@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me  
 - 🌱 I’m currently learning **HTML, CSS, React.js, Node.js, Tailwind CSS and more**  
 - 🎯 Future Goal: Become a **Full-Stack Developer**  
-- ⚡ Fun fact: I love **gaming & streaming** 🎮  
+- ⚡ Fun fact: I love **streaming**
 
 ---
 
